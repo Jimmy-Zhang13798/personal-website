@@ -21,10 +21,14 @@ author: Haizhou Zhang
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - My Github: "https://github.com/Jimmy-Zhang13798"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  For you: "https://github.com/Jimmy-Zhang13798/"
+  Work:
+    - Robotics: "https://github.com/Jimmy-Zhang13798"
+    - AI: "https://github.com/Jimmy-Zhang13798"
+  Life:
+    - Music: "https://github.com/Jimmy-Zhang13798"
+    - Musical Instruments Handcraft: "https://github.com/Jimmy-Zhang13798"
+    - Cooking: "https://github.com/Jimmy-Zhang13798"
+    - Misc: "https://github.com/Jimmy-Zhang13798"
 
 ################
 # --- Logo --- #
