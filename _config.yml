@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My website
+title: Haizhou Zhang
 
 # Your name to show in the footer
 author: Some Person
@@ -22,9 +22,9 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - My Github: "https://github.com/Jimmy-Zhang13798"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  For you: "https://github.com/Jimmy-Zhang13798/"
 
 ################
 # --- Logo --- #
