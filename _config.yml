@@ -18,8 +18,8 @@ author: Haizhou Zhang
 
 
 # ---  Add / update these two lines  -----------------
-url: "https://jimmy-zhang-1998.com"   # full canonical URL, no trailing slash
-baseurl: ""                      # **empty string** because the site lives at /
+# url: "https://jimmy-zhang-1998.com"   # full canonical URL, no trailing slash
+# baseurl: ""                      # **empty string** because the site lives at /
 # ----------------------------------------------------
 
 
