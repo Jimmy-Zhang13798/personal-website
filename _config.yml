@@ -15,6 +15,14 @@ title: Haizhou Zhang
 # Your name to show in the footer
 author: Haizhou Zhang 
 
+
+
+# ---  Add / update these two lines  -----------------
+url: "https://your-domain.com"   # full canonical URL, no trailing slash
+baseurl: ""                      # **empty string** because the site lives at /
+# ----------------------------------------------------
+
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
