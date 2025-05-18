@@ -167,6 +167,9 @@
   <link rel="icon" href="{{ '/favicon.ico?' | relative_url }}" />
   {% endif %}
 
+  <link rel="icon" href="/favicon.ico?" sizes="any">
+
+  
   {% if page.head-extra %}
     {% for file in page.head-extra %}
       {% include {{ file }} %}
