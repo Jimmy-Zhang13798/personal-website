@@ -80,3 +80,29 @@ staticman.yml
 tags.html
 “标签索引页”是指一个专门展示所有标签及其相关文章的页面，就像一本书的“索引”部分，用来帮助读者快速找到他们感兴趣的内容。这是自动生成的不用管。
 
+
+
+
+_config.yml 里的
+
+# ---  Add / update these two lines  -----------------
+url: "https://jimmy-zhang-1998.com"   # full canonical URL, no trailing slash
+baseurl: ""                      # **empty string** because the site lives at /
+# ----------------------------------------------------
+
+
+personal-website/_includes/head.html里的
+
+
+# ----------------------------------------------------
+  {% assign favicon_exists = site.static_files | where: "path", "/favicon.ico" | size %}
+  {% if favicon_exists == 1 %}
+  <link rel="icon" href="{{ '/favicon.ico?' | relative_url }}" />
+  {% endif %}
+
+  <link rel="icon" href="/favicon.ico?" sizes="any">
+
+# ----------------------------------------------------
+
+以上两者是 favicon加载出来的关键
+
