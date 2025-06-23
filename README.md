@@ -1,13 +1,13 @@
 official tutorial: https://github.com/daattali/beautiful-jekyll
 
 
-_data
+_data: 不用管
 用于存放结构化数据（YAML/JSON/CSV 格式），这些数据可以在页面中用 site.data 引用，例如导航菜单、项目列表等。
 
-_includes
+_includes: 不用管
 包含可复用的 HTML 片段，供页面或布局文件通过 {% include filename.html %} 引入。比如页眉、页脚、社交图标等。
 
-_layouts
+_layouts：不用管，但是有不同的布局可以选择
 定义网站的页面结构模板，如 default.html 是默认布局。页面中通过 layout: default 来指定使用的布局。
 
 _posts
@@ -45,19 +45,19 @@ aboutme.md
 Appraisals
 供开发者测试不同版本依赖的 Bundler 文件（大多数用户可忽略）。
 
-beautiful-jekyll-theme.gemspec
-定义这个主题作为 Ruby gem 的配置文件，我完全不用管
+beautiful-jekyll-theme.gemspec: 不用管
+定义这个主题作为 Ruby gem 的配置文件
 
 CHANGELOG.md
 版本更新日志，记录每次发布的变化，通常对开发者有用，我完全不用管。
 
-CNAME
+CNAME: 不用管
 用于自定义域名（如果你绑定了自己的域名而不是使用 GitHub Pages 的默认域名）。
 
-feed.xml
+feed.xml: 不用管
 RSS 订阅源，让别人可以订阅你的网站更新。
 
-Gemfile
+Gemfile: 不用管
 用于指定 Jekyll 和相关插件的 Ruby gem 依赖。
 如果你只使用 GitHub Pages 托管网站，完全不用管 Gemfile。
 如果你想在本地预览/调试网站，那么你就需要用它配合 bundle install + jekyll serve。
@@ -71,30 +71,30 @@ LICENSE
 README.md
 项目说明文档，说明如何使用和配置该项目，一般用于 GitHub 展示页面。
 
-screenshot.png
+screenshot.png: 不用管
 主题截图，展示网站外观。GitHub 会用它在项目预览中显示效果。
 
-staticman.yml
+staticman.yml: 不用管
 如果你启用了 Staticman 评论系统，这个文件用于配置评论提交逻辑。
 
-tags.html
+tags.html: 不用管
 “标签索引页”是指一个专门展示所有标签及其相关文章的页面，就像一本书的“索引”部分，用来帮助读者快速找到他们感兴趣的内容。这是自动生成的不用管。
 
 
 
 
-_config.yml 里的
+调整_config.yml，以便加载出favicon
 
 # ---  Add / update these two lines  -----------------
 url: "https://jimmy-zhang-1998.com"   # full canonical URL, no trailing slash
 baseurl: ""                      # **empty string** because the site lives at /
-# ----------------------------------------------------
+# -------------
 
 
 personal-website/_includes/head.html里的
 
 
-# ----------------------------------------------------
+# ---------------
   {% assign favicon_exists = site.static_files | where: "path", "/favicon.ico" | size %}
   {% if favicon_exists == 1 %}
   <link rel="icon" href="{{ '/favicon.ico?' | relative_url }}" />
@@ -102,7 +102,4 @@ personal-website/_includes/head.html里的
 
   <link rel="icon" href="/favicon.ico?" sizes="any">
 
-# ----------------------------------------------------
-
-以上两者是 favicon加载出来的关键
-
+# --------------
