@@ -28,7 +28,7 @@ baseurl: ""                      # **empty string** because the site lives at /
 ###############################################
 
 navbar-links:
-  About Me: "_pages/aboutme"
+  About Me: "/_pages/aboutme.md"
   Work:
     - Robotics: "https://github.com/Jimmy-Zhang13798"
     - AI: "https://github.com/Jimmy-Zhang13798"
