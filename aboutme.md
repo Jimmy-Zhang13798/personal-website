@@ -12,6 +12,3 @@ My name is Haizhou Zhang.
 ### My story
 
 Do I have any story to tell? To be honest, I don't have any stories.
-
-
-
