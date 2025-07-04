@@ -28,8 +28,8 @@ baseurl: ""                      # **empty string** because the site lives at /
 ###############################################
 
 navbar-links:
-  About this Website and Me: "aboutme"
-  Cool Things from Work:"https://github.com/Jimmy-Zhang13798"
+  About Me: "aboutme"
+  Work: "https://github.com/Jimmy-Zhang13798"
   Life:
     - Music: "https://github.com/Jimmy-Zhang13798"
     - Musical Instruments Handcraft: "https://github.com/Jimmy-Zhang13798"
