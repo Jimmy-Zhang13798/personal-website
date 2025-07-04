@@ -29,9 +29,7 @@ baseurl: ""                      # **empty string** because the site lives at /
 
 navbar-links:
   About Me: "aboutme"
-  Work:
-    - Robotics: "https://github.com/Jimmy-Zhang13798"
-    - AI: "https://github.com/Jimmy-Zhang13798"
+  Cool Things from Work:"https://github.com/Jimmy-Zhang13798"
   Life:
     - Music: "https://github.com/Jimmy-Zhang13798"
     - Musical Instruments Handcraft: "https://github.com/Jimmy-Zhang13798"
