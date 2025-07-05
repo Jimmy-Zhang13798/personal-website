@@ -11,7 +11,7 @@ My name is Haizhou Zhang.
 
 ### My story
 
-Do I have any story to tell? To be honest, I don't have any stories.
+Do I have any stories to tell? To be honest, I don't have any stories.
 
 ### This webiste
 
@@ -22,7 +22,7 @@ Do I have any story to tell? To be honest, I don't have any stories.
 - Buddhism: 佛教学习笔记
 - Life:
     - Music: 音乐
-    - Musical Instruments Handcraft: 
-    - Cooking: 做饭
+    - Musical Instruments Handcraft: 简单的乐器制作和维修
+    - Cooking: 做饭 暑假在新东方学厨的故事，和提升厨艺的开窍法门，etc
     - Backpack: 背包旅行
     - Misc: 杂七杂八
