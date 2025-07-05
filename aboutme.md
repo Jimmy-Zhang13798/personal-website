@@ -18,11 +18,11 @@ Do I have any story to tell? To be honest, I don't have any stories.
 内容还没填充全，大都指向了我的 github。大概做个笔记，以后要填充什么
 
 
-- Cool things from Work: 我会放一些我的有意思的机器人项目，没有任何难懂的技术细节，只是一些分享演示。
+- Cool Work: 我会放一些我的有意思机器人项目，没有任何难懂的技术细节，只是一些分享演示，看起来就很酷的那种。
 - Buddhism: 佛教学习笔记
 - Life:
-    - Music: "https://github.com/Jimmy-Zhang13798"
-    - Musical Instruments Handcraft: "https://github.com/Jimmy-Zhang13798"
-    - Cooking: "https://github.com/Jimmy-Zhang13798"
-    - Backpack: "https://github.com/Jimmy-Zhang13798"
-    - Misc: "https://github.com/Jimmy-Zhang13798"
+    - Music: 音乐
+    - Musical Instruments Handcraft: 
+    - Cooking: 做饭
+    - Backpack: 背包旅行
+    - Misc: 杂七杂八
