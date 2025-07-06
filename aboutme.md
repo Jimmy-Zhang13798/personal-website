@@ -15,10 +15,10 @@ Do I have any stories to tell? To be honest, I don't have any stories.
 
 ### This webiste
 
-内容还没填充全，大都指向了我的 github。大概做个笔记，以后要填充什么
+内容还没填充全，大都指向了我的 github；大概做个笔记，以后要填充什么
 
 
-- Cool Work: 我会放一些我的有意思机器人项目，没有任何难懂的技术细节，只是一些分享演示，看起来就很酷的那种。
+- Cool Work: 放我的有意思robotics相关项目，没有任何难懂的技术细节，只是一些分享演示，看起来就很酷的那种。
 - Buddhism: 佛教学习笔记
 - Life:
     - Music: 音乐
