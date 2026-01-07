@@ -30,8 +30,10 @@ baseurl: ""                      # **empty string** because the site lives at /
 navbar-links:
   Readme: "aboutme"
   Music: "music"
-  Handcraft:
-    - Musical Instruments Handcraft: "post-sample-markdown"
+  Instruments Handcraft:
+    - My learning path: "post-sample-markdown"
+    - How to check a guitar: "post-sample-markdown"
+    - Avoid buying a fake guitar in China: "post-sample-markdown"
   Cooking: "https://github.com/Jimmy-Zhang13798"
   Drifting: "https://github.com/Jimmy-Zhang13798"
   Tech Work: "https://github.com/Jimmy-Zhang13798"
