@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: I have nothing to say to this world
+subtitle: Trying to make a living and doing the best I can
 ---
 
 My name is Haizhou Zhang.
@@ -11,14 +11,14 @@ My name is Haizhou Zhang.
 
 ### My story
 
-Do I have any stories to tell? To be honest, I don't have any stories.
+To be honest, I don't have stories to tell. But don't think, just watch and feel.
 
 ### This webiste
 
 内容还没填充全，大都指向了我的 github；大概做个笔记，以后要填充什么
 
 
-- Cool Work: 放我的有意思robotics相关项目，没有任何难懂的技术细节，只是一些分享演示，看起来就很酷的那种。
+- Cool Work: 放我的有意思robotics相关项目，没有难懂的技术细节，只是分享演示
 - Buddhism: 佛教学习笔记
 - Life:
     - Music: 音乐
