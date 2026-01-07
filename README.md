@@ -42,7 +42,7 @@ Git 配置文件，用于控制文件的属性处理方式（如换行符、合�
 aboutme.md
 关于页面的内容，通常包含你的个人简介。此页面可能通过 _config.yml 中的导航条被链接。
 
-Appraisals
+Appraisals:不用管
 供开发者测试不同版本依赖的 Bundler 文件（大多数用户可忽略）。
 
 beautiful-jekyll-theme.gemspec: 不用管
@@ -65,7 +65,7 @@ Gemfile: 不用管
 index.html
 主页的内容（或引用布局）。是用户访问网站根目录时显示的主页面。
 
-LICENSE
+LICENSE:不用管
 版权许可证文件，通常为 MIT 或其他开源协议。
 
 README.md
