@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Prologue
+subtitle: Doesn't have a point of view; Knows not where he's going to
 ---
 
 My name is Haizhou Zhang.
