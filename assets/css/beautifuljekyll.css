@@ -52,6 +52,9 @@ p {
   line-height: 1.5;
   margin: 1.875rem 0;
 }
+.poem-lines {
+  white-space: pre-line;
+}
 h1,h2,h3,h4,h5,h6 {
   font-family: var(--header-font);
   font-weight: 800;
