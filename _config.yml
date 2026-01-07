@@ -29,14 +29,15 @@ baseurl: ""                      # **empty string** because the site lives at /
 
 navbar-links:
   Readme: "aboutme"
-  Life:
-    - Music: "life/music"
-    - Musical Instruments Handcraft: "life/post-sample-markdown"
-    - Cooking: "https://github.com/Jimmy-Zhang13798"
-    - Backpack: "https://github.com/Jimmy-Zhang13798"
-    - Misc: "https://github.com/Jimmy-Zhang13798"
-  Cool Work: "https://github.com/Jimmy-Zhang13798"
-  Buddhism: "https://github.com/Jimmy-Zhang13798"
+  Music: "music"
+  Handcraft:
+    - Musical Instruments Handcraft: "post-sample-markdown"
+  Cooking: "https://github.com/Jimmy-Zhang13798"
+  Drifting: "https://github.com/Jimmy-Zhang13798"
+  Tech Work: "https://github.com/Jimmy-Zhang13798"
+  Misc: 
+    - Reading: 
+      - Buddhism: "https://github.com/Jimmy-Zhang13798"
 
 ################
 # --- Logo --- #
