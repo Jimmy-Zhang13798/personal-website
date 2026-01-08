@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Avoid Buying A Fake Guitar in China
 subtitle: There's lots to learn!
 tags: [test]
