@@ -8,6 +8,57 @@ mathjax: true
 author: Haizhou Zhang
 ---
 
+## English version (literal translation by AI), see original Chinese version below
+
+This is a note from 2021. I believe it is the most detailed and most intuitive checklist on the internet.
+
+### Pick up the guitar and look directly
+1. Whether the neck and body fit together; whether the joint edges are tight or protruding too much; whether there is looseness or repairs; whether there are finish cracks (the body may be cracked).
+2. Whether the neck is straight relative to the body.
+3. Whether the bridge is straight (for example, the six saddles on an ST may be crooked — a common issue on lower-end models) (LP-type includes two parts: the bridge and the tailpiece).
+4. Whether the nut slots are even and the left-right spacing is equal.
+5. Whether the pickups align with the strings.
+6. Body dings, cracks, signs of repainting, etc.
+7. Whether the neck is straight.
+8. Neck relief.
+9. Check whether the neck is twisted (S-shaped), bent, or cracked.
+10. Fret wear level.
+11. Observe whether frets are lifting at the edges or protruding; they can cut fingers.
+12. Fret finishing quality.
+13. Whether the tuning pegs are straight.
+14. Whether there is binding, possibly delaminated.
+15. Whether the string retainer is crooked.
+16. Other various component misalignments.
+
+### Begin to feel / play
+1. Whether adjustment of the truss rod functions normally.
+2. Variation in tuning peg damping feel; uneven.
+3. Whether it goes out of tune and the degree of tuning instability.
+4. String action condition, or whether it can be adjusted to a normal action; guitars with an incorrect neck angle can never be adjusted to a normal action.
+5. Octave tuning condition.
+6. Plug into an amp and check whether each pickup position sounds normal and without noise.
+7. Whether the input jack is loose or has bad contact.
+8. Smoothness of the neck (how smoothly it plays).
+9. Smoothness of the tremolo arm; whether it is rusty, worn, or cannot be adjusted smoothly.
+10. Unusual string noise (nut or saddle lubrication insufficient).
+11. Test with an amp; listen to the tonal differences between pickup positions and whether the phase is correct.
+12. Check for dead notes or buzzing; smoothness of frets when bending strings.
+
+### Inspect with the guitar opened
+1. Whether the two screws for the tremolo springs on the tremolo plate are oriented correctly.
+2. Whether any screws are misplaced, penetrating through the body.
+3. Whether the entire bridge sits correctly in its slot.
+4. Whether the two studs that fix the bridge into the body (two-point type) are secured in the body.
+5. Neatness of the electronics.
+6. Neatness and quality of the woodwork.
+
+### Less important aspects
+- Smoothness of plastic parts' edges after filing.
+- Whether the strap buttons are straight.
+- Plastic cover plates, headstock cap, and other parts — correctness of screw placement.
+
+---
+
 这是一篇来自于2021年的 note，我相信它是网上最详细、最直观的 checklist。
 
 ## 拿起琴直接看
@@ -56,53 +107,4 @@ author: Haizhou Zhang
 - 塑料盖板、琴头盖等部件的螺丝定位是否正确。
 
 ---
-
-## English version (literal translation by ai)
-
-This is a note from 2021. I believe it is the most detailed and most intuitive checklist on the internet.
-
-### Pick up the guitar and look directly
-1. Whether the neck and body fit together; whether the joint edges are tight or protruding too much; whether there is looseness or repairs; whether there are finish cracks (the body may be cracked).
-2. Whether the neck is straight relative to the body.
-3. Whether the bridge is straight (for example, the six saddles on an ST may be crooked — a common issue on lower-end models) (LP-type includes two parts: the bridge and the tailpiece).
-4. Whether the nut slots are even and the left-right spacing is equal.
-5. Whether the pickups align with the strings.
-6. Body dings, cracks, signs of repainting, etc.
-7. Whether the neck is straight.
-8. Neck relief.
-9. Check whether the neck is twisted (S-shaped), bent, or cracked.
-10. Fret wear level.
-11. Observe whether frets are lifting at the edges or protruding; they can cut fingers.
-12. Fret finishing quality.
-13. Whether the tuning pegs are straight.
-14. Whether there is binding, possibly delaminated.
-15. Whether the string retainer is crooked.
-16. Other various component misalignments.
-
-### Begin to feel / play
-1. Whether adjustment of the truss rod functions normally.
-2. Variation in tuning peg damping feel; uneven.
-3. Whether it goes out of tune and the degree of tuning instability.
-4. String action condition, or whether it can be adjusted to a normal action; guitars with an incorrect neck angle can never be adjusted to a normal action.
-5. Octave tuning condition.
-6. Plug into an amp and check whether each pickup position sounds normal and without noise.
-7. Whether the input jack is loose or has bad contact.
-8. Smoothness of the neck (how smoothly it plays).
-9. Smoothness of the tremolo arm; whether it is rusty, worn, or cannot be adjusted smoothly.
-10. Unusual string noise (nut or saddle lubrication insufficient).
-11. Test with an amp; listen to the tonal differences between pickup positions and whether the phase is correct.
-12. Check for dead notes or buzzing; smoothness of frets when bending strings.
-
-### Inspect with the guitar opened
-1. Whether the two screws for the tremolo springs on the tremolo plate are oriented correctly.
-2. Whether any screws are misplaced, penetrating through the body.
-3. Whether the entire bridge sits correctly in its slot.
-4. Whether the two studs that fix the bridge into the body (two-point type) are secured in the body.
-5. Neatness of the electronics.
-6. Neatness and quality of the woodwork.
-
-### Less important aspects
-- Smoothness of plastic parts' edges after filing.
-- Whether the strap buttons are straight.
-- Plastic cover plates, headstock cap, and other parts — correctness of screw placement.
 
