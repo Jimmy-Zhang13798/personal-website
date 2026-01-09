@@ -32,8 +32,8 @@ navbar-links:
   Music: "music"
   Craftsmanship:
     - My learning path: "post-sample-markdown"
-    - How to check a guitar: "post-sample-markdown"
-    - Avoid buying a fake guitar in China: "fake_guitar_tell"
+    - How to check a guitar: "2020-07-03-guitar_inspection_guide"
+    - Avoid buying a fake guitar in China: "2025-11-20-fake_guitar_tell"
   Cooking: "https://github.com/Jimmy-Zhang13798"
   Misc:
     - Drifting: "https://github.com/Jimmy-Zhang13798"
