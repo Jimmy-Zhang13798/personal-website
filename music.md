@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About me
-subtitle: I have nothing to say to this world
+title: 放排
+subtitle: 穷山恶水讨生活
 ---
-
 Coming
