@@ -105,6 +105,3 @@ This is a note from 2021. I believe it is the most detailed and most intuitive c
 - 塑料部件毛边打磨是否光滑。
 - 背带扣是否位置正确。
 - 塑料盖板、琴头盖等部件的螺丝定位是否正确。
-
----
-
