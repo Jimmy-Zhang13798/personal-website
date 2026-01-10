@@ -81,7 +81,6 @@ High-position fret replacement on acoustic guitar:
 ![e8ee2b601680729d6d6635428fed7146](/assets/img/guitar_marketing/e8ee2b601680729d6d6635428fed7146.JPG){: .mx-auto.d-block :}
 
 
-
 # My certificate
 
-![gRIVERS_page](/assets/img/guitar_marketing/gRIVERS_page-0001.jpg){: .mx-auto.d-block :}
+![gRIVERS_page](/assets/img/guitar_marketing/IMG_3393.JPG){: .mx-auto.d-block :}
