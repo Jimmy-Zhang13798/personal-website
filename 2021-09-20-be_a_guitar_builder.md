@@ -44,12 +44,12 @@ author: Haizhou Zhang
 ![img 2004](/assets/img/guitar_marketing/IMG_2004.JPG){: .mx-auto.d-block :}
 
 
-更换多出点 pure tone 插孔：
+更换多触点 pure tone 插孔：
 ![img 2005](/assets/img/guitar_marketing/IMG_2019.JPG){: .mx-auto.d-block :}
 
 
-更换复古风格卷弦器，口径不一样，需重新扩孔：
-原图：
+更换复古风格卷弦器，口径不一样，需重新扩孔
+原金属旋钮：
 ![img 2006](/assets/img/guitar_marketing/IMG_2020.JPG){: .mx-auto.d-block :}
 
 
@@ -60,7 +60,7 @@ author: Haizhou Zhang
 重新开孔定弦，改善偏弦问题：
 ![img 2007](/assets/img/guitar_marketing/IMG_2007.JPG){: .mx-auto.d-block :}
 
-清洁润魂 st 琴桥：
+清洁润滑 st 琴桥：
 ![img 2008](/assets/img/guitar_marketing/IMG_2008.JPG){: .mx-auto.d-block :}
 
 
@@ -74,11 +74,11 @@ author: Haizhou Zhang
 ![img 2015](/assets/img/guitar_marketing/IMG_2015.JPG){: .mx-auto.d-block :}
 
 
-爵士吉他电路维修，需要勾线，很麻烦：
+爵士吉他电路维修，需勾线，很麻烦：
 ![jazz guitar circuit](/assets/img/guitar_marketing/jazz_guitar_circuit.JPG){: .mx-auto.d-block :}
 
 
-#最后是两把从头制作的琴（琴体，琴颈为购买，但都从品丝开始处理，）
+#最后是两把从头制作的琴（琴体，琴颈为购买，但都从品丝开始处理）
 
 ![2021 05 24 10 35 img 6639](/assets/img/guitar_marketing/2021_05_24_10_35_IMG_6639.JPG){: .mx-auto.d-block :}
 
