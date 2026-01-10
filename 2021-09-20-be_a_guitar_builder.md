@@ -21,7 +21,7 @@ After years of self-taught experience and repair work at local music stores, I s
 Emergency repair: used quick-setting adhesive to repair the nut and re-slotted to eliminate buzzing:
 ![img 2003](/assets/img/guitar_marketing/IMG_2003.JPG){: .mx-auto.d-block :}
 
-Handmade nut material:
+Handmade nut:
 ![img 2004](/assets/img/guitar_marketing/IMG_2004.JPG){: .mx-auto.d-block :}
 
 Replaced multi-contact Pure Tone jack:
