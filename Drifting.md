@@ -8,5 +8,6 @@ author: Haizhou Zhang
 ---
 Nowhere to go and Nowhere to run.
 
-Notes from the Road (Solotrip)
+Notes from the Road(Solotrip).
+
 Coming!
