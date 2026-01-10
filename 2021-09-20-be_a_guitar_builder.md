@@ -24,7 +24,7 @@ author: Haizhou Zhang
 
 ![2021 05 24 10 35 img 6639](/assets/img/guitar_marketing/2021_05_24_10_35_IMG_6639.JPG){: .mx-auto.d-block :}
 
-![8d1ef71fee86df738b93bffd0b24a9112](/assets/img/guitar_marketing/8d1ef71fee86df738b93bffd0b24a911 2.jpg){: .mx-auto.d-block :}
+![8d1ef71fee86df738b93bffd0b24a9112](/assets/img/guitar_marketing/8d1ef71fee86df738b93bffd0b24a9112.jpg){: .mx-auto.d-block :}
 
 ![8d1ef71fee86df738b93bffd0b24a911](/assets/img/guitar_marketing/8d1ef71fee86df738b93bffd0b24a911.jpg){: .mx-auto.d-block :}
 
