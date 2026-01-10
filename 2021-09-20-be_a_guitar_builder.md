@@ -42,10 +42,6 @@ author: Haizhou Zhang
 
 ![img 2008](/assets/img/guitar_marketing/IMG_2008.JPG){: .mx-auto.d-block :}
 
-![img 2009](/assets/img/guitar_marketing/IMG_2009.JPG){: .mx-auto.d-block :}
-
-![img 2011](/assets/img/guitar_marketing/IMG_2011.JPG){: .mx-auto.d-block :}
-
 ![img 2012](/assets/img/guitar_marketing/IMG_2012.JPG){: .mx-auto.d-block :}
 
 ![img 2013](/assets/img/guitar_marketing/IMG_2013.JPG){: .mx-auto.d-block :}
