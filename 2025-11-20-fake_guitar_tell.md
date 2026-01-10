@@ -7,6 +7,11 @@ comments: true
 mathjax: true
 author: Haizhou Zhang
 ---
+
+Sorry, this blog is in Chinese. It focuses on counterfeit instruments and concepts specific to the Chinese market.
+
+---
+
 ## 先立一个概念
 首先，树立一个概念，**假琴的覆盖面之广超过想象**。
 
