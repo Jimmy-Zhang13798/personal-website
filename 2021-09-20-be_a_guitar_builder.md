@@ -9,7 +9,7 @@ author: Haizhou Zhang
 ---
 
 
-After years of self-taught experience and repair work at local music stores, I spent several intensive months at a guitar workshop to study guitar craftsmanship systematically. Got a professional guitar technician certificate from probably the best and oldest guitar repair workshop in China - 9River Guitar Workshop.
+After years of self-taught experience and repair work at local music stores, I spent several intensive months at a guitar workshop to study guitar craftsmanship systematically. Got a professional guitar technician certificate from probably the best and oldest guitar repair workshop in China - [9River Guitar Workshop](https://9rgw.ca/).
 
 
 ![2021 05 17 17 46 img 6496](/assets/img/guitar_marketing/2021_05_17_17_46_IMG_6496.JPG){: .mx-auto.d-block :}
