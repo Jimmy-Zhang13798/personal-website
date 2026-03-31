@@ -31,6 +31,7 @@ navbar-links:
   Readme: "aboutme"
   Music: "music"
   Cooking: "Cooking"
+    - Cooking Philosophy : "2026-03-31-Cooking-Philosophy"
   Craftsmanship:
     - The Path To A Guitar Tech : "2021-09-20-be_a_guitar_builder"
     - How to Inspect a Guitar: "2021-07-03-guitar_inspection_guide"

@@ -8,7 +8,7 @@ mathjax: true
 author: Haizhou Zhang
 ---
 
-This is a note from 2021. At least from the perspective of craftsmanship and assembly, I believe it is a very detailed and intuitive checklist. Of course, when it comes to the sound of the instrument itself and the combination of different woods, you need to rely on your own aesthetic judgment—the content below does not cover that aspect.
+This is a note from 2021. I believe it is the most detailed and most intuitive checklist on the internet.
 
 
 ## English version (literal translation by AI), see original Chinese version below
