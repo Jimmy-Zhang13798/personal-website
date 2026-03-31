@@ -8,6 +8,9 @@ mathjax: true
 author: Haizhou Zhang
 ---
 
+This is a note from 2021. I believe it is the most detailed and most intuitive checklist on the internet.
+
+
 ## English version (literal translation by AI), see original Chinese version below
 
 This is a note from 2021. I believe it is the most detailed and most intuitive checklist on the internet.
