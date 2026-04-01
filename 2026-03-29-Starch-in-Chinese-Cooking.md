@@ -8,6 +8,8 @@ mathjax: true
 author: Haizhou Zhang
 ---
 
+This blog targets Chinese cuisine, so there is no English version.
+
 淀粉在中餐中不是一个“配角”，而是一种控制工具。  
 它决定了口感、外观、温度保持，甚至烹饪过程的稳定性。
 
