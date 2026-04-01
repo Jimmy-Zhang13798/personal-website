@@ -156,4 +156,3 @@ Tips collected from everyday cooking and learning. So sorry, this tips collectio
    - 状态：小泡往上翻涌，烟气微起，颜色变成深枣红色。
    - 后续动作：这是炒糖色的终点。此时必须立刻倒入开水（俗称“定色”），防止余温烧焦变苦。
    - 用途：卤水、红烧肉。这种糖色上色红亮，久煮不发黑，且不含色素。
----
