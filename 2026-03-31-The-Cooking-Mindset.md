@@ -1,110 +1,52 @@
 ---
 layout: page
-title: An Ultimate Guitar Inspection Guide
-subtitle: Everything you need to check before purchasing a new or used instrument.
-tags: [test]
+title: The Cooking Mindset
+subtitle: Mindset before technique
+tags: [cooking]
 comments: true
 mathjax: true
 author: Haizhou Zhang
 ---
 
-This is a note from 2021. I believe it is the most detailed and most intuitive checklist on the internet.
+怎么做出一桌尽可能好的菜，除了熟悉食材技巧，更多是思维的问题。下面是我学习过程中的一些拙见，也是自己的记录，不一定对每个人有用。
+
+English version translated by AI, see below.
+
+## 我将做菜分为 3 种
+
+1. 日常凑合吃，随便做熟即可。
+2. 练习学习：每个环节都应以正式上菜的要求遵守，但是允许犯错，甚至鼓励犯错和思考，以不断改进。
+3. 正式出品。
+
+## 练习与准备
+
+- 练习学习：自己一个人做几遍，尝一尝，不断改进。
+- 练习学习：不是每个网络教学都靠谱，有些非常草台班子，中看不中用，自己多试。
+- 练习学习：一个菜就是可以有众多版本都好吃，不要太追求哪一版。
+- 练习学习：对这世间已有成品的菜，原则上吃过才会做得好；没有吃过、不熟悉的做法 or 食材的话，没做好的话，不要 push 自己。
+- 在家想要出品好，要舍得，器具买够，食材买够。比如很多菜酒店都是过油的，家里要舍得用宽油。
+- 食材宁愿买多，不能买少；做饭时差东西就不好了。
+- 正式出品时，食材有问题，觉得一点点奇怪，不像你熟悉的样子，都不要使用；宁愿少做一个菜，也不要出现问题。
+- - 处理食材的时候，要敢于舍弃几口边角料，会让最后的成品更好看。配比非常重要，宁愿剩下来多余的配菜，也不要想着一锅做完。
+- 把食材捡出来和放进去一样重要，比如花椒、姜、大料。
+- 没自己做成功过的菜，给他人做饭时不要上桌，或者声明是练习试菜。
+- 由于我不是每天做菜，所以要复习、总结好菜谱才行，列出来每一道菜的流程。
+- 任何加热的菜，低于 10 mins 时一直守着火，不要节约时间做别的；稍稍过熟，菜都会不好。
+- 准备好所有的食材，先洗好菜，配比好每个菜，包括调料碗，然后才能开火。
+- 准备阶段都是铁具、不锈钢具，上菜才用瓷器。
+- 都要热盘子。
+- 餐具有审美，餐具不好看，菜好吃也没用。
+- 大多数人做菜不好吃的情况，都是由于调料放多了，而不是放少。
+- 合理安排蒸、炖、卤、凉菜，利用烤箱温菜。
+
+- 头一天：上午就规划好所有的菜，一定要列出来（不然漏买，麻烦）；下午好买菜；晚上泡、解冻。
+- 正式做一桌菜时，没必要为一个细节，差一味香料、少一次复炸，多费很多功夫；保证整体的味道好吃是最重要的。特别是菜多时，无法每一个细节做到单独练习那个菜的峰值水平，而是要保证每个菜在水平线上的好吃。
+- 正式出品时，对不熟悉的食材，一定不要临时自创不熟的做法。比如有一次口蘑，一般都是要煎或者炒；直接煮，量多了会有腥味。
+- 总之遵守计划和自己列的食谱，尽可能不要临时更改计划，或者临时决定多做很难的菜；做多了，手忙脚乱，不好吃。
 
 
-## English version (literal translation by AI), see original Chinese version below
+## 收尾与复盘
 
-
-
-### Pick up the guitar and look directly
-1. Whether the neck and body fit together; whether the joint edges are tight or protruding too much; whether there is looseness or repairs; whether there are finish cracks (the body may be cracked).
-2. Whether the neck is straight relative to the body.
-3. Whether the bridge is straight (for example, the six saddles on an ST may be crooked — a common issue on lower-end models) (LP-type includes two parts: the bridge and the tailpiece).
-4. Whether the nut slots are even and the left-right spacing is equal.
-5. Whether the pickups align with the strings.
-6. Body dings, cracks, signs of repainting, etc.
-7. Whether the neck is straight.
-8. Neck relief.
-9. Check whether the neck is twisted (S-shaped), bent, or cracked.
-10. Fret wear level.
-11. Observe whether frets are lifting at the edges or protruding; they can cut fingers.
-12. Fret finishing quality.
-13. Whether the tuning pegs are straight.
-14. Whether there is binding, possibly delaminated.
-15. Whether the string retainer is crooked.
-16. Other various component misalignments.
-
-### Begin to feel / play
-1. Whether adjustment of the truss rod functions normally.
-2. Variation in tuning peg damping feel; uneven.
-3. Whether it goes out of tune and the degree of tuning instability.
-4. String action condition, or whether it can be adjusted to a normal action; guitars with an incorrect neck angle can never be adjusted to a normal action.
-5. Octave tuning condition.
-6. Plug into an amp and check whether each pickup position sounds normal and without noise.
-7. Whether the input jack is loose or has bad contact.
-8. Smoothness of the neck (how smoothly it plays).
-9. Smoothness of the tremolo arm; whether it is rusty, worn, or cannot be adjusted smoothly.
-10. Unusual string noise (nut or saddle lubrication insufficient).
-11. Test with an amp; listen to the tonal differences between pickup positions and whether the phase is correct.
-12. Check for dead notes or buzzing; smoothness of frets when bending strings.
-
-### Inspect with the guitar opened
-1. Whether the two screws for the tremolo springs on the tremolo plate are oriented correctly.
-2. Whether any screws are misplaced, penetrating through the body.
-3. Whether the entire bridge sits correctly in its slot.
-4. Whether the two studs that fix the bridge into the body (two-point type) are secured in the body.
-5. Neatness of the electronics.
-6. Neatness and quality of the woodwork.
-
-### Less important aspects
-- Smoothness of plastic parts' edges after filing.
-- Whether the strap buttons are straight.
-- Plastic cover plates, headstock cap, and other parts — correctness of screw placement.
-
----
-
-这是一篇来自于2021年的 note，我相信它是网上最详细、最直观的 checklist。
-
-## 拿起琴直接看
-1. 琴颈、琴体是否贴合，连接口边缘紧密与否，或者超出太多，是否松动或修补，是否有漆裂（有可能琴体裂）。
-2. 琴颈是否正于琴体。
-3. 琴桥是否正（比如 ST 的六个点可能会歪，低端通病）（LP 型包括两部分：琴桥和拉弦板）。
-4. 上琴枕开槽均匀，左右间距相等。
-5. 拾音器点和弦是否对准。
-6. 琴体磕碰、裂痕、重新喷漆痕迹等。
-7. 脖子是否笔直。
-8. 琴颈余量。
-9. 琴颈是否有扭曲（S 形）、弯曲或开裂。
-10. 品丝磨损程度。
-11. 观察品丝是否翘边、突出，会刮手。
-12. 品丝处理程度。
-13. 弦钮是否正。
-14. 有包边，可能脱胶。
-15. 压弦扣是否歪斜。
-16. 其他各种部件定位错误。
-
-## 开始感受
-1. 调节 truss rod（钢筋）时是否正常。
-2. 调音弦钮阻尼感是否偏差、不均匀。
-3. 是否跑音及跑音程度。
-4. 弦距状态，或是否能调至正常弦距。有琴颈角度错误的琴，永远无法调节至正常弦距。
-5. 八度音状态。
-6. 插上音箱，听听每个档位是否正常、无杂音。
-7. 插口是否松动或接触不良。
-8. 脖子顺滑程度。
-9. 摇把顺滑程度，是否生锈、磨损或无法顺畅调整。
-10. 琴弦是否异常响（上下琴枕润滑度不足）。
-11. 插上音箱实测，听清楚不同档位的音色差异，是否相位正确。
-12. 检查是否有死音、打品；推弦时品丝顺滑程度。
-
-## 拆开琴看
-1. 拉弦板拉弹簧的两个螺丝方向是否正确。
-2. 是否有螺丝位置不对，打穿琴体的情况。
-3. 整个琴桥在开槽里是否正确就位。
-4. 琴桥往琴里固定的两个椎（两点式）是否能在琴体内固定牢靠。
-5. 电路整洁程度。
-6. 木材及木工处理的整洁程度。
-
-## 其他不太重要的方面
-1. 塑料部件毛边打磨是否光滑。
-1. 背带扣是否位置正确。
-1. 塑料盖板、琴头盖等部件的螺丝定位是否正确。
+- 练习时，每一个菜都要总结写下来，每一步过程都写好。
+- 尤其是出现过的问题，反思记录好，证伪才能学习。
+- 每个菜要认真拍照，便于回忆总结。

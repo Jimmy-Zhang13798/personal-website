@@ -2,7 +2,7 @@
 layout: page
 title: How to Stir-fry Beef Like a Pro
 subtitle: Why your beef releases too much water and how to fix it
-tags: [test]
+tags: [cooking]
 comments: true
 mathjax: true
 author: Haizhou Zhang

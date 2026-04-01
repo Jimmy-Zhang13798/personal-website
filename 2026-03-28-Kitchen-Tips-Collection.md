@@ -2,7 +2,7 @@
 layout: page
 title: My Kitchen Tips Collection
 subtitle: Tips collected from everyday cooking and learning.
-tags: [test]
+tags: [cooking]
 comments: true
 mathjax: true
 author: Haizhou Zhang
