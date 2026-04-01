@@ -50,3 +50,52 @@ English version translated by AI, see below.
 - 练习时，每一个菜都要总结写下来，每一步过程都写好。
 - 尤其是出现过的问题，反思记录好，证伪才能学习。
 - 每个菜要认真拍照，便于回忆总结。
+
+---
+
+How to make a table of dishes as good as possible is not only about knowing ingredients and techniques — it is even more about mindset.
+
+The notes below are some of my personal thoughts and lessons learned during practice. They are simply a record for myself and may not be useful for everyone.
+
+
+## Three Modes of Cooking
+
+I divide cooking into three categories:
+
+1. **Everyday cooking** — just make it edible.
+2. **Practice mode** — treat every step as if you were serving it formally, but allow mistakes. In fact, mistakes and reflection are encouraged to improve.
+3. **Final serving** — actual dishes served to others.
+
+## Practice & Preparation
+
+- Practice: cook the same dish multiple times on your own, taste it, and keep improving.
+- Not all online tutorials are reliable. Some look good but are impractical — test things yourself.
+- A single dish can have many good variations. Don’t obsess over finding “the one”.
+- For established dishes, you generally cook them better if you’ve tasted them before. If you’re unfamiliar with the dish or ingredients, don’t push yourself too hard if it doesn’t turn out well.
+- If you want good results at home, don’t be stingy: invest in proper tools and enough ingredients. For example, many restaurant dishes use generous amounts of oil — you need to be willing to do the same.
+- It’s better to buy more ingredients than too little. Cutting corners will hurt the result.
+- Always check your ingredients. If anything feels even slightly off or unfamiliar, don’t use it.
+- Ratios matter a lot. It’s better to have leftovers than to try to make everything in one pot.
+- Removing ingredients is as important as adding them (e.g. Sichuan peppercorns, ginger, spices).
+- Once the heat is on, stay focused. Even slight overcooking can ruin a dish.
+- Don’t serve dishes to others that you haven’t successfully made before — or clearly label them as experiments.
+- Since I don’t cook every day, I need to review and document recipes carefully — write down the full process for each dish.
+- For dishes that cook in under 10 minutes, stay at the stove the entire time. Don’t multitask — even slight overcooking will ruin it. Induction stoves burn easily. Don’t get distracted.
+- Prepare everything before turning on the heat: wash, portion, and measure all ingredients, including sauces.
+- Use metal or stainless steel tools during prep; switch to ceramic when serving.
+- Always preheat plates.
+- Tableware matters. Even great food suffers if presentation looks bad.
+- When preparing ingredients, don’t hesitate to trim off imperfect edges — it improves the final presentation.
+- Most of my failed dishes come from over-seasoning.
+- Keep a fixed setup for tasting: one plate, one pair of chopsticks, one spoon.
+- When preparing a full table, don’t over-optimize every tiny detail (e.g. missing one spice, skipping a second fry). Focus on overall quality instead of perfection in each dish.
+- For unfamiliar ingredients, don’t improvise unfamiliar techniques. For example, button mushrooms are usually pan-fried or sautéed — boiling them in large amounts can create a strong odor.
+- Stick to your plan. Don’t suddenly add more dishes — it leads to chaos and worse results.
+- Plan ahead: decide all dishes the day before (write them down), shop in the afternoon, and soak/defrost at night.
+- Coordinate cooking methods: steaming, braising, marinating, cold dishes — and use the oven to keep dishes warm.
+
+## Finishing & Reflection
+
+- After cooking (especially in practice), write down every step for each dish.
+- Pay special attention to mistakes. Reflection and correction are how you improve.
+- Take photos of every dish to help with future review.
