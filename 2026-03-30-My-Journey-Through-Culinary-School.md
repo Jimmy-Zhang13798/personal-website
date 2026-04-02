@@ -12,7 +12,7 @@ author: Haizhou Zhang
 
 ![me cooking](/assets/img/cooking/1-1a734d7e.jpg){: .mx-auto.d-block :}
 
-# Some dish photos：
+# Preparation:
 
 Before the pan hits the heat, every ingredient must be prepped and portioned with precision
 
@@ -24,9 +24,10 @@ Before the pan hits the heat, every ingredient must be prepped and portioned wit
 
 ![prep4](/assets/img/cooking/2024_07_17_14_05_IMG_5901.JPG){: .mx-auto.d-block :}
 
-
-
 ![cooking](/assets/img/cooking/2024_07_01_14_59_IMG_5451.JPG){: .mx-auto.d-block :}
+
+
+# Some dish photos：
 
 ![dish1](/assets/img/cooking/2024_07_01_14_07_IMG_5445.JPG){: .mx-auto.d-block :}
 
