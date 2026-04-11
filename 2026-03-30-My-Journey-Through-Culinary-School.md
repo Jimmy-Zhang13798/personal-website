@@ -28,7 +28,7 @@ Before the pan hits the heat, every ingredient must be prepped and portioned wit
 ![cooking](/assets/img/cooking/2024_07_01_14_59_IMG_5451.JPG){: .mx-auto.d-block :}
 
 
-# Some dish photos：
+# Some dishes：
 
 ![dish1](/assets/img/cooking/2024_07_01_14_07_IMG_5445.JPG){: .mx-auto.d-block :}
 
