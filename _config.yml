@@ -29,8 +29,8 @@ baseurl: ""                      # **empty string** because the site lives at /
 ###############################################
 
 navbar-links:
-  Readme: "aboutme"
   Music: "music"
+  Travel:"Drifting"
   Cooking:
     - My Journey Through Culinary School : "2026-03-30-My-Journey-Through-Culinary-School"
     - Kitchen Tips Collection : "2026-03-28-Kitchen-Tips-Collection"
@@ -42,9 +42,7 @@ navbar-links:
     - How to Inspect a Guitar: "2021-07-03-guitar_inspection_guide"
     - Avoid Buying a Fake Guitar in China: "2025-11-20-fake_guitar_tell"
   Misc:
-    - Drifting: "Drifting"
     - Tech Work: "https://github.com/Jimmy-Zhang13798"
-    - Reading: "Reading"
     
 
 
