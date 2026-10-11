@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Kitchen Tips Collection
+title: 中式烹饪Tips
 subtitle: Tips collected from everyday cooking and learning.
 tags: [cooking]
 comments: true
@@ -9,8 +9,6 @@ author: Haizhou Zhang
 ---
 
 Tips collected from everyday cooking and learning. So sorry, this tips collection mainly targets Chinese cuisine, so there is no English version.
-
-一些日常做饭与学习中沉淀下来的零碎经验。
 
 ## 厨房 Tips
 

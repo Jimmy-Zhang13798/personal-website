@@ -28,8 +28,8 @@ baseurl: ""                      # **empty string** because the site lives at /
 navbar-links:
   Cooking:
     - My Journey Through Culinary School : "2026-03-30-My-Journey-Through-Culinary-School"
-    - Kitchen Tips Collection : "2026-03-28-Kitchen-Tips-Collection"
     - Cooking Mindset : "2026-03-31-The-Cooking-Mindset"
+    - Kitchen Tips Collection : "2026-03-28-Kitchen-Tips-Collection"
     - Stir-fry Beef Like a Pro : "2026-03-27-Stir-fry-Beef"
     - Starch in Chinese Cooking : "2026-03-29-Starch-in-Chinese-Cooking"
   Craftsmanship:

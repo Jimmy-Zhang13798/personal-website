@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Starch in Chinese Cooking
+title: 中式烹饪的各种淀粉
 subtitle: How starch shapes texture and technique
 tags: [cooking]
 comments: true

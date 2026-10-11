@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to Stir-fry Beef Like a Pro
+title: 怎么炒牛肉
 subtitle: Why your beef releases too much water and how to fix it
 tags: [cooking]
 comments: true

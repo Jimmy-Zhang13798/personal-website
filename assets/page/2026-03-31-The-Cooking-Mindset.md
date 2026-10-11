@@ -57,49 +57,45 @@ English version, see below.
 
 ---
 
-How to make a table of dishes as good as possible is not only about knowing ingredients and techniques — it is even more about mindset.
+Cooking the best table of food you can takes more than knowing your ingredients and techniques — it is mostly a matter of mindset.
 
-The notes below are some of my personal thoughts and lessons learned during practice. They are simply a record for myself and may not be useful for everyone.
+These are some humble observations from my own learning, kept as a personal record. They may not be useful for everyone.
 
 
-## Three Modes of Cooking
+## Three Kinds of Cooking
 
-I divide cooking into three categories:
-
-1. **Everyday cooking** — just make it edible.
-2. **Practice mode** — treat every step as if you were serving it formally, but allow mistakes. In fact, mistakes and reflection are encouraged to improve.
-3. **Final serving** — actual dishes served to others.
+1. **Everyday meals** — just getting by; cooked through is good enough.
+2. **Practice** — hold every step to the standard of a dish you would actually serve, and think through each mistake so that you keep improving.
+3. **Serving for real** — dishes that go on the table for others.
 
 ## Practice & Preparation
 
-- Practice: cook the same dish multiple times on your own, taste it, and keep improving.
-- Not all online tutorials are reliable. Some look good but are impractical — test things yourself.
-- A single dish can have many good variations. Don’t obsess over finding “the one”.
-- For established dishes, you generally cook them better if you’ve tasted them before. If you’re unfamiliar with the dish or ingredients, don’t push yourself too hard if it doesn’t turn out well.
-- If you want good results at home, don’t be stingy: invest in proper tools and enough ingredients. For example, many restaurant dishes use generous amounts of oil — you need to be willing to do the same.
-- It’s better to buy more ingredients than too little. Cutting corners will hurt the result.
-- Always check your ingredients. If anything feels even slightly off or unfamiliar, don’t use it.
-- Ratios matter a lot. It’s better to have leftovers than to try to make everything in one pot.
-- Removing ingredients is as important as adding them (e.g. Sichuan peppercorns, ginger, spices).
-- Once the heat is on, stay focused. Even slight overcooking can ruin a dish.
-- Don’t serve dishes to others that you haven’t successfully made before — or clearly label them as experiments.
-- Since I don’t cook every day, I need to review and document recipes carefully — write down the full process for each dish.
-- For dishes that cook in under 10 minutes, stay at the stove the entire time. Don’t multitask — even slight overcooking will ruin it. Induction stoves burn easily. Don’t get distracted.
-- Prepare everything before turning on the heat: wash, portion, and measure all ingredients, including sauces.
-- Use metal or stainless steel tools during prep; switch to ceramic when serving.
-- Always preheat plates.
-- Tableware matters. Even great food suffers if presentation looks bad.
-- When preparing ingredients, don’t hesitate to trim off imperfect edges — it improves the final presentation.
-- Most of my failed dishes come from over-seasoning.
-- Keep a fixed setup for tasting: one plate, one pair of chopsticks, one spoon.
-- When preparing a full table, don’t over-optimize every tiny detail (e.g. missing one spice, skipping a second fry). Focus on overall quality instead of perfection in each dish.
-- For unfamiliar ingredients, don’t improvise unfamiliar techniques. For example, button mushrooms are usually pan-fried or sautéed — boiling them in large amounts can create a strong odor.
-- Stick to your plan. Don’t suddenly add more dishes — it leads to chaos and worse results.
-- Plan ahead: decide all dishes the day before (write them down), shop in the afternoon, and soak/defrost at night.
-- Coordinate cooking methods: steaming, braising, marinating, cold dishes — and use the oven to keep dishes warm.
+- Practice: cook the dish a few times on your own, taste it, and keep improving.
+- Practice: not every online tutorial is reliable. Some are downright amateurish — they look good but don’t work. Try things yourself.
+- Practice: one dish really can have many versions that are all delicious. Don’t fixate on any single one.
+- Practice: for dishes that already exist in the world, as a rule you can only cook them well if you have eaten them. If you have never tasted the dish, or the method or the ingredients are unfamiliar, don’t be hard on yourself when it doesn’t turn out well.
+- To get good results at home you have to be willing to spend: buy enough equipment and enough ingredients. Many restaurant dishes, for example, are passed through hot oil first, so at home you have to be willing to cook with a generous amount of oil too.
+- Buy too much rather than too little. Finding yourself short of something in the middle of cooking is bad news.
+- When serving for real, if an ingredient seems off — even slightly odd, not the way you know it — don’t use it. Better to make one dish fewer than to risk a problem.
+- When prepping, dare to throw away the scraps (ugly chili tops, the last thin slices left from cutting a potato, and so on). The finished dish will look better for it.
+- Proportions matter a great deal. Better to have some of the secondary ingredients left over than to try to use everything up in one pot.
+- Taking ingredients out matters as much as putting them in — Sichuan peppercorns, ginger, star anise.
+- When cooking for others, don’t serve a dish you have never made successfully yourself — or say up front that it is a practice run.
+- Because I don’t cook every day, I have to review my recipes and write them up properly, listing the full process for each dish.
+- For anything that cooks in under 10 minutes, stay at the stove the whole time. Don’t try to save time by doing something else — even slightly overcooked, the dish suffers.
+- Get every ingredient ready first: wash the vegetables and portion out each dish, including its bowl of seasonings. Only then turn on the heat.
+- Use iron and stainless-steel ware for prep; porcelain is only for serving.
+- Always warm the plates.
+- Tableware has its own aesthetics. If it looks bad, it doesn’t matter how good the food tastes.
+- When most people’s cooking tastes bad, it is because they used too much seasoning, not too little.
+- Plan sensibly across steamed, stewed, soy-braised (lu) and cold dishes, and use the oven to keep food warm.
+- The day before: plan every dish in the morning and be sure to write the list down (otherwise you will forget to buy something, which is a hassle); shop in the afternoon; soak and defrost in the evening.
+- When cooking a full table for real, it isn’t worth a lot of extra effort over one detail — a missing spice, skipping the second fry. What matters most is that the meal as a whole tastes good. Especially with many dishes, you can’t bring every detail up to the peak you reach when practicing that one dish alone; the goal is for every dish to be reliably good.
+- When serving for real, never improvise an untested method on an unfamiliar ingredient. I learned this once with button mushrooms: they are normally pan-fried or stir-fried, and when boiled directly in a large quantity they give off an unpleasant raw smell.
+- In short, stick to the plan and to the recipes you wrote down. As far as possible, don’t change the plan at the last minute or decide on the spot to add a difficult dish. Take on too much and you end up flustered, and the food suffers.
 
-## Finishing & Reflection
+## Wrapping Up & Review
 
-- After cooking (especially in practice), write down every step for each dish.
-- Pay special attention to mistakes. Reflection and correction are how you improve.
-- Take photos of every dish to help with future review.
+- When practicing, write up every dish, with every step of the process.
+- Above all, reflect on the problems that came up and record them. You only learn by being proven wrong.
+- Photograph every dish carefully; it makes recalling and reviewing easier.
