@@ -299,6 +299,11 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+  -
+    scope:
+      path: "assets/page" # pages live in this folder but keep their short URLs, e.g. /travel/
+    values:
+      permalink: "/:basename/"
 
 # Exclude these files from production site
 exclude:

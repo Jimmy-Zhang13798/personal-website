@@ -3,7 +3,7 @@ Provide focused, repo-specific guidance so an AI coding agent can be immediately
 
 ## Big picture
 - This repo is a standalone Jekyll site. Its layouts and assets originally came from the Beautiful Jekyll theme (MIT, see `LICENSE`) but are now maintained here. The site is rendered by Jekyll (Ruby) into static HTML.
-- Content flow: markdown pages and posts in the repo (notably `_posts/` and top-level `*.md`) -> Jekyll processes Liquid templates in `_layouts/` and `_includes/` -> output static site. Key configuration is in `_config.yml`.
+- Content flow: markdown pages and posts in the repo (notably `_posts/` and `assets/page/*.md`) -> Jekyll processes Liquid templates in `_layouts/` and `_includes/` -> output static site. Key configuration is in `_config.yml`.
 
 ## Local dev / build.
 - Uses Bundler / Jekyll. Typical commands:
@@ -17,7 +17,7 @@ bundle exec jekyll serve
 
 ## Where to make changes (important files)
 - Site config and defaults: `_config.yml` (navigation, comment systems, defaults for posts like `layout: post`, `comments: true`).
-- Page/post content: `_posts/` (YYYY-MM-DD-title.md) and top-level markdown such as `aboutme.md`.
+- Page/post content: `_posts/` (YYYY-MM-DD-title.md) and standalone pages in `assets/page/` (e.g. `travel.md`). A `defaults` entry in `_config.yml` gives those pages the permalink `/:basename/`, so `assets/page/travel.md` is served at `/travel/`.
 - Layouts and partials: `_layouts/` and `_includes/` (header, footer, comment widgets). Edit these for structural/template changes.
 - Static assets: `assets/css/`, `assets/js/`, `assets/img/`. Client-side search index template: `assets/data/searchcorpus.json` (Liquid-generated JSON for the site search).
 

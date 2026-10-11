@@ -43,8 +43,10 @@ Git 配置文件，用于控制文件的属性处理方式（如换行符、合�
 404.html
 自定义的“页面未找到”页面，当用户访问不存在的链接时会显示。
 
-aboutme.md
-关于页面的内容，通常包含你的个人简介。此页面可能通过 _config.yml 中的导航条被链接。
+assets/page
+所有页面的 Markdown 文件都放在这里（travel.md、music.md、各篇文章）。
+网址不带文件夹名：assets/page/travel.md 的网址是 /travel/，所以 _config.yml 的 navbar-links 里只写文件名（不带 .md）。
+这是靠 _config.yml 里 defaults 的 permalink: "/:basename/" 实现的，文件夹改名或移动时要同步改那里的 path。
 
 CNAME: 不用管
 用于自定义域名（如果你绑定了自己的域名而不是使用 GitHub Pages 的默认域名）。
