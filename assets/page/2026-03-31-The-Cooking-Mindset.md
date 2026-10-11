@@ -30,7 +30,7 @@ English version, see below.
 - 在家想要出品好，要舍得，器具买够，食材买够。比如很多菜酒店都是过油的，家里要舍得用宽油。
 - 食材宁愿买多，不能买少；做饭时差东西就不好了。
 - 正式出品时，食材有问题，觉得一点点奇怪，不像你熟悉的样子，都不要使用；宁愿少做一个菜，也不要出现问题。
-- 处理食材的时，敢于舍弃边角料（指不好看的辣椒头之类，土豆最后切剩下的薄片等等），会让最后的成品更好看。
+- 处理食材时，敢于舍弃边角料（指不好看的辣椒头之类，土豆最后切剩下的薄片等等），会让最后的成品更好看。
 - 配比非常重要，宁愿剩下来多余的配菜，也不要想着一锅做完。
 - 把食材捡出来和放进去一样重要，比如花椒、姜、大料。
 - 没自己做成功过的菜，给他人做饭时不要上桌，或者声明是练习试菜。
@@ -42,7 +42,6 @@ English version, see below.
 - 餐具有审美，餐具不好看，菜好吃也没用。
 - 大多数人做菜不好吃的情况，都是由于调料放多了，而不是放少。
 - 合理安排蒸、炖、卤、凉菜，利用烤箱温菜。
-
 - 头一天：上午就规划好所有的菜，一定要列出来（不然漏买，麻烦）；下午好买菜；晚上泡、解冻。
 - 正式做一桌菜时，没必要为一个细节，差一味香料、少一次复炸，多费很多功夫；保证整体的味道好吃是最重要的。特别是菜多时，无法每一个细节做到单独练习那个菜的峰值水平，而是要保证每个菜在水平线上的好吃。
 - 正式出品时，对不熟悉的食材，一定不要临时自创不熟的做法。比如有一次口蘑，一般都是要煎或者炒；直接煮，量多了会有腥味。
@@ -70,32 +69,32 @@ These are some humble observations from my own learning, kept as a personal reco
 
 ## Practice & Preparation
 
-- Practice: cook the dish a few times on your own, taste it, and keep improving.
-- Practice: not every online tutorial is reliable. Some are downright amateurish — they look good but don’t work. Try things yourself.
-- Practice: one dish really can have many versions that are all delicious. Don’t fixate on any single one.
-- Practice: for dishes that already exist in the world, as a rule you can only cook them well if you have eaten them. If you have never tasted the dish, or the method or the ingredients are unfamiliar, don’t be hard on yourself when it doesn’t turn out well.
+- Cook the dish a few times on your own, taste it, and keep improving before serving.
+- When cooking for others, don’t serve a dish you have never made successfully yourself — or say up front that it is a practice run.
+- Not every online tutorial is reliable. Some are downright amateurish — they look good but don’t work. Try things yourself. One dish really can have many versions that are all delicious. Don’t fixate on any single one.
+- For dishes that already exist in the world, as a rule you can only cook them well if you have eaten them. If you have never tasted the dish, or the method or the ingredients are unfamiliar, don’t be hard on yourself when it doesn’t turn out well.
 - To get good results at home you have to be willing to spend: buy enough equipment and enough ingredients. Many restaurant dishes, for example, are passed through hot oil first, so at home you have to be willing to cook with a generous amount of oil too.
 - Buy too much rather than too little. Finding yourself short of something in the middle of cooking is bad news.
 - When serving for real, if an ingredient seems off — even slightly odd, not the way you know it — don’t use it. Better to make one dish fewer than to risk a problem.
 - When prepping, dare to throw away the scraps (ugly chili tops, the last thin slices left from cutting a potato, and so on). The finished dish will look better for it.
-- Proportions matter a great deal. Better to have some of the secondary ingredients left over than to try to use everything up in one pot.
-- Taking ingredients out matters as much as putting them in — Sichuan peppercorns, ginger, star anise.
-- When cooking for others, don’t serve a dish you have never made successfully yourself — or say up front that it is a practice run.
-- Because I don’t cook every day, I have to review my recipes and write them up properly, listing the full process for each dish.
+- Proportions matter a great deal. Better to have some of the ingredients left over than to try to use everything up in one pot.
+- Taking ingredients out matters as much as putting them in — especially herbs, ginger, star anise, etc.
+- list the full process for each dish, write them up properly, review the recipes when cooking, especailly if you don't cook everyday, so you cannot always remember all the details, you need an SOP to review and follow.
 - For anything that cooks in under 10 minutes, stay at the stove the whole time. Don’t try to save time by doing something else — even slightly overcooked, the dish suffers.
-- Get every ingredient ready first: wash the vegetables and portion out each dish, including its bowl of seasonings. Only then turn on the heat.
+- Get every ingredient ready first: wash the vegetables and portion out each dish, including seasonings. Only then turn on the heat.
 - Use iron and stainless-steel ware for prep; porcelain is only for serving.
 - Always warm the plates.
 - Tableware has its own aesthetics. If it looks bad, it doesn’t matter how good the food tastes.
-- When most people’s cooking tastes bad, it is because they used too much seasoning, not too little.
-- Plan sensibly across steamed, stewed, soy-braised (lu) and cold dishes, and use the oven to keep food warm.
+- When the cooking tastes bad, most likely it is because they used too much seasoning, not too little.
+- Plan sensibly across steamed, stewed, fried and cold dishes, so they are all warm when serving and use the oven to keep food warm.
 - The day before: plan every dish in the morning and be sure to write the list down (otherwise you will forget to buy something, which is a hassle); shop in the afternoon; soak and defrost in the evening.
-- When cooking a full table for real, it isn’t worth a lot of extra effort over one detail — a missing spice, skipping the second fry. What matters most is that the meal as a whole tastes good. Especially with many dishes, you can’t bring every detail up to the peak you reach when practicing that one dish alone; the goal is for every dish to be reliably good.
+- When cooking a full table for real, it isn’t worth a lot of extra effort over one detail — one special vinegar, one special herb, etc. What matters most is that the meal as a whole tastes good. Especially with many dishes, you can’t bring every detail up to the peak you reach when practicing that one dish alone; the goal is for every dish to be reliably good.
 - When serving for real, never improvise an untested method on an unfamiliar ingredient. I learned this once with button mushrooms: they are normally pan-fried or stir-fried, and when boiled directly in a large quantity they give off an unpleasant raw smell.
 - In short, stick to the plan and to the recipes you wrote down. As far as possible, don’t change the plan at the last minute or decide on the spot to add a difficult dish. Take on too much and you end up flustered, and the food suffers.
 
 ## Wrapping Up & Review
 
 - When practicing, write up every dish, with every step of the process.
-- Above all, reflect on the problems that came up and record them. You only learn by being proven wrong.
 - Photograph every dish carefully; it makes recalling and reviewing easier.
+- Above all, reflect on the problems that came up and record them. You only learn by being proven wrong.
+

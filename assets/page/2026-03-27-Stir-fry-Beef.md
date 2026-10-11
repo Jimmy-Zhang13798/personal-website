@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 怎么炒牛肉
+title: 炒牛肉
 subtitle: Why your beef releases too much water and how to fix it
 tags: [cooking]
 comments: true
