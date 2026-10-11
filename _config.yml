@@ -30,7 +30,7 @@ baseurl: ""                      # **empty string** because the site lives at /
 
 navbar-links:
   Music: "music"
-  Travel:"Drifting"
+  Travel: "Drifting"
   Cooking:
     - My Journey Through Culinary School : "2026-03-30-My-Journey-Through-Culinary-School"
     - Kitchen Tips Collection : "2026-03-28-Kitchen-Tips-Collection"
