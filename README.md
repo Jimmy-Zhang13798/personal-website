@@ -1,4 +1,7 @@
-official tutorial: https://github.com/daattali/beautiful-jekyll
+本站基于 Beautiful Jekyll 主题（MIT，见 LICENSE）改造，主题代码已全部在本仓库内，独立维护。
+主题原始文档（查配置项时可参考）: https://github.com/daattali/beautiful-jekyll
+
+本地预览: bundle install && bundle exec jekyll serve --livereload ，然后打开 http://127.0.0.1:4000
 
 
 _data: 不用管
@@ -42,15 +45,6 @@ Git 配置文件，用于控制文件的属性处理方式（如换行符、合�
 aboutme.md
 关于页面的内容，通常包含你的个人简介。此页面可能通过 _config.yml 中的导航条被链接。
 
-Appraisals:不用管
-供开发者测试不同版本依赖的 Bundler 文件（大多数用户可忽略）。
-
-beautiful-jekyll-theme.gemspec: 不用管
-定义这个主题作为 Ruby gem 的配置文件
-
-CHANGELOG.md
-版本更新日志，记录每次发布的变化，通常对开发者有用，我完全不用管。
-
 CNAME: 不用管
 用于自定义域名（如果你绑定了自己的域名而不是使用 GitHub Pages 的默认域名）。
 
@@ -70,12 +64,6 @@ LICENSE:不用管
 
 README.md
 项目说明文档，说明如何使用和配置该项目，一般用于 GitHub 展示页面。
-
-screenshot.png: 不用管
-主题截图，展示网站外观。GitHub 会用它在项目预览中显示效果。
-
-staticman.yml: 不用管
-如果你启用了 Staticman 评论系统，这个文件用于配置评论提交逻辑。
 
 tags.html: 不用管
 “标签索引页”是指一个专门展示所有标签及其相关文章的页面，就像一本书的“索引”部分，用来帮助读者快速找到他们感兴趣的内容。这是自动生成的不用管。

@@ -1025,7 +1025,7 @@ pre {
 }
 
 /* Search bar */
-#beautifuljekyll-search-overlay {
+#search-overlay {
   font-family: var(--header-font);
   display: none;
   z-index: 999999;

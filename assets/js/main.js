@@ -1,12 +1,12 @@
 // Dean Attali / Beautiful Jekyll 2023
 
-let BeautifulJekyllJS = {
+let SiteJS = {
 
   bigImgEl : null,
   numImgs : null,
 
   init : function() {
-    setTimeout(BeautifulJekyllJS.initNavbar, 10);
+    setTimeout(SiteJS.initNavbar, 10);
 
     // Shorten the navbar after scrolling a little bit down
     $(window).scroll(function() {
@@ -26,9 +26,9 @@ let BeautifulJekyllJS = {
     });
 
     // show the big header image
-    BeautifulJekyllJS.initImgs();
+    SiteJS.initImgs();
 
-    BeautifulJekyllJS.initSearch();
+    SiteJS.initSearch();
   },
 
   initNavbar : function() {
@@ -49,19 +49,19 @@ let BeautifulJekyllJS = {
   initImgs : function() {
     // If the page was large images to randomly select from, choose an image
     if ($("#header-big-imgs").length > 0) {
-      BeautifulJekyllJS.bigImgEl = $("#header-big-imgs");
-      BeautifulJekyllJS.numImgs = BeautifulJekyllJS.bigImgEl.attr("data-num-img");
+      SiteJS.bigImgEl = $("#header-big-imgs");
+      SiteJS.numImgs = SiteJS.bigImgEl.attr("data-num-img");
 
       // 2fc73a3a967e97599c9763d05e564189
       // set an initial image
-      const imgInfo = BeautifulJekyllJS.getImgInfo();
+      const imgInfo = SiteJS.getImgInfo();
       const src = imgInfo.src;
       const desc = imgInfo.desc;
-      BeautifulJekyllJS.setImg(src, desc);
+      SiteJS.setImg(src, desc);
 
       // For better UX, prefetch the next image so that it will already be loaded when we want to show it
       const getNextImg = function() {
-        const imgInfo = BeautifulJekyllJS.getImgInfo();
+        const imgInfo = SiteJS.getImgInfo();
         const src = imgInfo.src;
         const desc = imgInfo.desc;
 
@@ -77,7 +77,7 @@ let BeautifulJekyllJS = {
           // after the animation of fading in the new image is done, prefetch the next one
           //img.one("transitioned webkitTransitionEnd oTransitionEnd MSTransitionEnd", function(){
           setTimeout(function() {
-            BeautifulJekyllJS.setImg(src, desc);
+            SiteJS.setImg(src, desc);
             img.remove();
             getNextImg();
           }, 1000);
@@ -86,16 +86,16 @@ let BeautifulJekyllJS = {
       };
 
       // If there are multiple images, cycle through them
-      if (BeautifulJekyllJS.numImgs > 1) {
+      if (SiteJS.numImgs > 1) {
         getNextImg();
       }
     }
   },
 
   getImgInfo : function() {
-    const randNum = Math.floor((Math.random() * BeautifulJekyllJS.numImgs) + 1);
-    const src = BeautifulJekyllJS.bigImgEl.attr("data-img-src-" + randNum);
-    const desc = BeautifulJekyllJS.bigImgEl.attr("data-img-desc-" + randNum);
+    const randNum = Math.floor((Math.random() * SiteJS.numImgs) + 1);
+    const src = SiteJS.bigImgEl.attr("data-img-src-" + randNum);
+    const desc = SiteJS.bigImgEl.attr("data-img-desc-" + randNum);
 
     return {
       src : src,
@@ -113,24 +113,24 @@ let BeautifulJekyllJS = {
   },
 
   initSearch : function() {
-    if (!document.getElementById("beautifuljekyll-search-overlay")) {
+    if (!document.getElementById("search-overlay")) {
       return;
     }
 
     $("#nav-search-link").click(function(e) {
       e.preventDefault();
-      $("#beautifuljekyll-search-overlay").show();
+      $("#search-overlay").show();
       $("#nav-search-input").focus().select();
       $("body").addClass("overflow-hidden");
     });
     $("#nav-search-exit").click(function(e) {
       e.preventDefault();
-      $("#beautifuljekyll-search-overlay").hide();
+      $("#search-overlay").hide();
       $("body").removeClass("overflow-hidden");
     });
     $(document).on('keyup', function(e) {
       if (e.key == "Escape") {
-        $("#beautifuljekyll-search-overlay").hide();
+        $("#search-overlay").hide();
         $("body").removeClass("overflow-hidden");
       }
     });
@@ -139,4 +139,4 @@ let BeautifulJekyllJS = {
 
 // 2fc73a3a967e97599c9763d05e564189
 
-document.addEventListener('DOMContentLoaded', BeautifulJekyllJS.init);
+document.addEventListener('DOMContentLoaded', SiteJS.init);

@@ -1,8 +1,8 @@
 ## Purpose
-Provide focused, repo-specific guidance so an AI coding agent can be immediately productive editing this Beautiful Jekyll site.
+Provide focused, repo-specific guidance so an AI coding agent can be immediately productive editing this Jekyll site.
 
 ## Big picture
-- This repo is a fork/customization of the Beautiful Jekyll theme. The site is rendered by Jekyll (Ruby) into static HTML.
+- This repo is a standalone Jekyll site. Its layouts and assets originally came from the Beautiful Jekyll theme (MIT, see `LICENSE`) but are now maintained here. The site is rendered by Jekyll (Ruby) into static HTML.
 - Content flow: markdown pages and posts in the repo (notably `_posts/` and top-level `*.md`) -> Jekyll processes Liquid templates in `_layouts/` and `_includes/` -> output static site. Key configuration is in `_config.yml`.
 
 ## Local dev / build.
@@ -29,7 +29,7 @@ bundle exec jekyll serve
 
 ## Integration points & external services
 - GitHub Pages: the repo is a typical GH Pages site; local builds may use plugins not supported on GitHub Pages — test with `bundle exec jekyll serve` locally.
-- Staticman: `staticman.yml` config present. If Staticman comments are enabled, ensure endpoint/branch values in `_config.yml` match this file.
+- Staticman: partials exist in `_includes` but it is not configured (no `staticman.yml`).
 
 ## How to add a post
 1. Create `YYYY-MM-DD-title.md` under `_posts/` with YAML front matter. Use `layout: post` if overriding.
@@ -43,8 +43,8 @@ bundle exec jekyll serve
 ## References (examples)
 - Site configuration: [_config.yml](_config.yml)
 - Template examples: [_layouts/default.html](_layouts/default.html) and [_includes/header.html](_includes/header.html)
-- Client JS and search index: [assets/js/beautifuljekyll.js](assets/js/beautifuljekyll.js) and [assets/data/searchcorpus.json](assets/data/searchcorpus.json)
-- Comments config: [staticman.yml](staticman.yml) and [_includes/staticman-comment.html](_includes/staticman-comment.html)
+- Client JS and search index: [assets/js/main.js](assets/js/main.js) and [assets/data/searchcorpus.json](assets/data/searchcorpus.json)
+- Comment partials: [_includes/comments.html](_includes/comments.html)
 
 ## When to ask for human guidance
 - If a change affects external integrations (Staticman, Disqus, giscus) ask before editing credentials/endpoints.

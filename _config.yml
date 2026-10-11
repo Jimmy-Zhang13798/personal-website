@@ -1,8 +1,5 @@
 ###########################################################
-### Welcome to Beautiful Jekyll!
-### This config file is meant for settings that affect your entire website. When you first
-### set up your website you should go through all these settings and edit them, but after
-### the initial set up you won't need to come back to this file often.
+### Site-wide settings for jimmy-zhang-1998.com
 ###########################################################
 
 ############################
@@ -29,8 +26,6 @@ baseurl: ""                      # **empty string** because the site lives at /
 ###############################################
 
 navbar-links:
-  Music: "music"
-  Travel: "Drifting"
   Cooking:
     - My Journey Through Culinary School : "2026-03-30-My-Journey-Through-Culinary-School"
     - Kitchen Tips Collection : "2026-03-28-Kitchen-Tips-Collection"
@@ -41,6 +36,8 @@ navbar-links:
     - The Path To A Guitar Tech : "2021-09-20-be_a_guitar_builder"
     - How to Inspect a Guitar: "2021-07-03-guitar_inspection_guide"
     - Avoid Buying a Fake Guitar in China: "2025-11-20-fake_guitar_tell"
+  Music: "music"
+  Travel: "Drifting"
   Misc:
     - Tech Work: "https://github.com/Jimmy-Zhang13798"
     
@@ -72,22 +69,22 @@ round-avatar: true
 social-network-links:
   email: "hazhan@utu.fi"
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-# facebook: deanattali
+# facebook: yourname
   github: Jimmy-Zhang13798
-# twitter: daattali
-# patreon: DeanAttali
-# youtube: "@daattali"
+# twitter: yourname
+# patreon: yourname
+# youtube: "@yourname"
   whatsapp: 358413271373
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
   linkedin: haizhou-zhang-382056231
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  stackoverflow: "userid/yourname"
+#  snapchat: yourname
+#  instagram: yourname
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -144,7 +141,6 @@ edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
-# See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
@@ -230,7 +226,7 @@ footer-hover-col: "#0085A1"
 # (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
 #utterances:
-#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  repository: # GitHub username/repository eg. "username/repository"
 #  issue-term: title   # Mapping between blog posts and GitHub issues
 #  theme: github-light # Utterances theme
 #  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
@@ -239,10 +235,9 @@ footer-hover-col: "#0085A1"
 # section commented if you aren't using reCaptcha for spam protection.
 # Using Staticman requires advanced knowledge, please consult
 # https://github.com/eduardoboucas/staticman/ and https://staticman.net/ for further
-# instructions. For any support with staticman please direct questions to staticman and
-# not to BeautifulJekyll.
+# instructions.
 #staticman:
-#  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  repository : # GitHub username/repository eg. "username/repository"
 #  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
 #  endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
 #  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well)
@@ -256,7 +251,7 @@ footer-hover-col: "#0085A1"
 # See more details about giscus and each of the following parameters at https://giscus.app
 #giscus:
 #  hostname: giscus.app # Replace with your giscus instance's hostname if self-hosting
-#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  repository: # GitHub username/repository eg. "username/repository"
 #  repository-id: # ID of your repository, retrieve this info from https://giscus.app
 #  category: Announcements # Category name of your GitHub Discussion posts
 #  category-id: # ID of your category, retrieve this info from https://giscus.app
@@ -307,18 +302,13 @@ defaults:
 
 # Exclude these files from production site
 exclude:
-  - CHANGELOG.md
   - CNAME
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
-  - screenshot.png
-  - docs/
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
