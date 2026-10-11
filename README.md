@@ -6,6 +6,7 @@
 
 _data: 不用管
 用于存放结构化数据（YAML/JSON/CSV 格式），这些数据可以在页面中用 site.data 引用，例如导航菜单、项目列表等。
+例外: _data/travel.yml 是 Travel 页面世界地图的数据，每去一个新地方就在里面加一条（文件开头有写法说明）。
 
 _includes: 不用管
 包含可复用的 HTML 片段，供页面或布局文件通过 {% include filename.html %} 引入。比如页眉、页脚、社交图标等。

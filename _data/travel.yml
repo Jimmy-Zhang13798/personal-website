@@ -1,0 +1,40 @@
+# 旅行地图的数据。每去一个地方，在最下面加一条，保存后页面自动更新。
+#
+#   country  必填。国家/地区的英文名，对应的国家会在地图上高亮。
+#   name     选填。城市或地点的名字。
+#   lat/lon  选填。纬度/经度（南纬、西经用负数），填了才会在地图上出现一个点。
+#            在 Google Maps 上右键点击某个位置，第一行就是 "纬度, 经度"。
+#   date     选填。时间，随便怎么写，例如 2024 或 "2024-07"。
+#   note     选填。一句话备注，鼠标悬停在点上时显示。
+#
+# 只想高亮一个国家、不标具体地点，写一行 "- country: Japan" 就行。
+# 国家名写错时，本地预览的地图下方会出现红色提示。
+# 常见写法都认：USA / UK / South Korea / Czech Republic / Hong Kong / Taiwan ...
+
+# 想给某个地方加圆点时，照这个格式写（去掉开头的 #）：
+#
+# - name: Turku
+#   country: Finland
+#   lat: 60.4518
+#   lon: 22.2666
+#   date: 2023
+#   note: 一句话备注
+
+- country: China
+- country: Austria
+- country: Czech Republic
+- country: Denmark
+- country: Estonia
+- country: Finland
+- country: Germany
+- country: Hong Kong
+- country: Ireland
+- country: Japan
+- country: Lithuania
+- country: Netherlands
+- country: Norway
+- country: Poland
+- country: Spain
+- country: Sweden
+- country: Taiwan
+- country: Thailand

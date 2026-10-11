@@ -1,0 +1,328 @@
+.travel-map {
+  /* globe colours */
+  --tm-bg: #0A1320;
+  --tm-bg-glow: #16263F;
+  --tm-land: #2B3F58;
+  --tm-land-hover: #3A5676;
+  --tm-border: #12213A;
+  --tm-grid: rgba(255, 255, 255, 0.06);
+  --tm-visited: #F4B740;
+  --tm-visited-hover: #FFDC8F;
+  --tm-text: #EEF2F7;
+  --tm-muted: #8C9DB3;
+
+  /* wider than the text column, centred on the page */
+  --tm-width: min(calc(100vw - 2rem), 1240px);
+  width: var(--tm-width);
+  margin: 0 0 2.5rem calc(50% - var(--tm-width) / 2);
+  font-family: var(--header-font);
+}
+
+.travel-map-canvas {
+  position: relative;
+  overflow: hidden;
+  border-radius: 14px;
+  /* a few faint stars over the night sky */
+  background:
+    radial-gradient(1.2px 1.2px at 6% 22%, rgba(255, 255, 255, 0.55), transparent),
+    radial-gradient(1px 1px at 13% 68%, rgba(255, 255, 255, 0.35), transparent),
+    radial-gradient(1.4px 1.4px at 21% 38%, rgba(255, 255, 255, 0.4), transparent),
+    radial-gradient(1px 1px at 27% 86%, rgba(255, 255, 255, 0.3), transparent),
+    radial-gradient(1px 1px at 17% 9%, rgba(255, 255, 255, 0.3), transparent),
+    radial-gradient(1.2px 1.2px at 74% 12%, rgba(255, 255, 255, 0.45), transparent),
+    radial-gradient(1px 1px at 81% 44%, rgba(255, 255, 255, 0.35), transparent),
+    radial-gradient(1.4px 1.4px at 88% 76%, rgba(255, 255, 255, 0.5), transparent),
+    radial-gradient(1px 1px at 94% 28%, rgba(255, 255, 255, 0.3), transparent),
+    radial-gradient(1px 1px at 78% 90%, rgba(255, 255, 255, 0.3), transparent),
+    radial-gradient(1px 1px at 68% 62%, rgba(255, 255, 255, 0.25), transparent),
+    radial-gradient(1px 1px at 33% 15%, rgba(255, 255, 255, 0.25), transparent),
+    radial-gradient(ellipse at 50% 45%, var(--tm-bg-glow) 0%, var(--tm-bg) 72%);
+  box-shadow: 0 18px 40px -18px rgba(10, 19, 32, 0.55);
+  -webkit-user-select: none;
+  user-select: none;
+}
+.travel-map-stage {
+  height: clamp(360px, calc(100vh - 300px), 660px);
+}
+.travel-map svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  cursor: grab;
+  /* a vertical swipe scrolls the page, a sideways one spins the globe */
+  touch-action: pan-y;
+}
+.travel-map svg:active {
+  cursor: grabbing;
+}
+
+.travel-map .ocean-light {
+  stop-color: #1F3759;
+}
+.travel-map .ocean-dark {
+  stop-color: #0E1B2F;
+}
+.travel-map .halo-inner {
+  stop-color: #5C96FF;
+  stop-opacity: 0.32;
+}
+.travel-map .halo-outer {
+  stop-color: #5C96FF;
+  stop-opacity: 0;
+}
+.travel-map .shade-inner {
+  stop-color: #000000;
+  stop-opacity: 0;
+}
+.travel-map .shade-outer {
+  stop-color: #000000;
+  stop-opacity: 0.5;
+}
+.travel-map .halo,
+.travel-map .shade {
+  pointer-events: none;
+}
+.travel-map .sphere {
+  stroke: rgba(140, 180, 255, 0.28);
+  stroke-width: 1;
+}
+.travel-map .graticule {
+  fill: none;
+  stroke: var(--tm-grid);
+  pointer-events: none;
+}
+.travel-map .country {
+  fill: var(--tm-land);
+  stroke: var(--tm-border);
+  stroke-width: 0.5;
+  transition: fill 0.15s;
+}
+.travel-map .country:hover {
+  fill: var(--tm-land-hover);
+}
+.travel-map .visited-layer {
+  filter: drop-shadow(0 0 6px rgba(244, 183, 64, 0.45));
+}
+/* the glow is too expensive to redraw on every frame of a spin */
+.travel-map svg.moving .visited-layer {
+  filter: none;
+}
+.travel-map .country.visited,
+.travel-map .country-dot {
+  fill: var(--tm-visited);
+  animation: travel-map-appear 0.6s both;
+  animation-delay: calc(var(--i, 0) * 45ms + 300ms);
+}
+.travel-map .country.visited:hover,
+.travel-map .country.visited.active,
+.travel-map .country-dot:hover,
+.travel-map .country-dot.active {
+  fill: var(--tm-visited-hover);
+}
+/* dot that keeps tiny visited regions (Hong Kong, Singapore...) visible from afar */
+.travel-map .country-dot {
+  stroke: var(--tm-bg);
+  stroke-width: 1;
+}
+.travel-map .place {
+  fill: #FFFFFF;
+  stroke: var(--tm-bg);
+  stroke-width: 1.5;
+  cursor: pointer;
+}
+@keyframes travel-map-appear {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .travel-map .country.visited,
+  .travel-map .country-dot {
+    animation: none;
+  }
+}
+
+/* shade under the number and the hint so they stay readable when zoomed in */
+.travel-map-canvas::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 26%;
+  background: linear-gradient(to top, rgba(10, 19, 32, 0.9), rgba(10, 19, 32, 0));
+  pointer-events: none;
+}
+.travel-map-stat,
+.travel-map-hint {
+  z-index: 1;
+}
+.travel-map-stat {
+  position: absolute;
+  left: 1.75rem;
+  bottom: 1.5rem;
+  color: var(--tm-text);
+  line-height: 1;
+  pointer-events: none;
+}
+.travel-map-stat strong {
+  display: block;
+  color: var(--tm-visited);
+  font-size: 3.5rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+.travel-map-stat span {
+  display: block;
+  margin-top: 0.4rem;
+  color: var(--tm-muted);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.travel-map-controls {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.travel-map-controls button {
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: 8px;
+  background: rgba(10, 19, 32, 0.72);
+  color: var(--tm-text);
+  font: 600 17px/1 var(--header-font);
+  cursor: pointer;
+  transition: background 0.15s;
+}
+.travel-map-controls button:hover {
+  background: var(--tm-land-hover);
+}
+
+.travel-map-hint {
+  position: absolute;
+  right: 1.25rem;
+  bottom: 1rem;
+  margin: 0;
+  color: var(--tm-muted);
+  font-size: 0.7rem;
+  opacity: 0.75;
+  pointer-events: none;
+}
+
+.travel-map-tooltip {
+  position: absolute;
+  z-index: 2;
+  max-width: 240px;
+  padding: 7px 11px;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
+  color: #1B2535;
+  font-size: 13px;
+  line-height: 1.4;
+  white-space: nowrap;
+  pointer-events: none;
+  transform: translate(-50%, calc(-100% - 14px));
+}
+.travel-map-tooltip strong {
+  display: block;
+  font-weight: 700;
+}
+.travel-map-tooltip span {
+  display: block;
+  color: #6A7789;
+  white-space: normal;
+}
+.travel-map-tooltip .been {
+  color: #B27A00;
+  font-weight: 600;
+}
+
+.travel-map-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  margin: 1.25rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+.travel-map-list button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.3rem 0.85rem;
+  border: 1px solid #DDE2E8;
+  border-radius: 999px;
+  background: var(--page-col);
+  color: var(--text-col);
+  font: 600 0.82rem/1.5 var(--header-font);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.travel-map-list button::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--tm-visited);
+}
+.travel-map-list button:focus {
+  outline: none;
+}
+.travel-map-list button:focus-visible {
+  box-shadow: 0 0 0 3px rgba(244, 183, 64, 0.55);
+}
+.travel-map-list button:hover,
+.travel-map-list button.active {
+  border-color: var(--tm-bg);
+  background: var(--tm-bg);
+  color: var(--tm-text);
+}
+
+.travel-map-warning {
+  margin: 0.75rem 0 0;
+  color: #C0392B;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+@media (max-width: 767px) {
+  .travel-map-canvas {
+    border-radius: 10px;
+  }
+  .travel-map-canvas::after {
+    display: none;
+  }
+  .travel-map-stage {
+    height: auto;
+    aspect-ratio: 1 / 1;
+  }
+  .travel-map-stat {
+    position: static;
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+    padding: 0.25rem 1rem 1rem;
+  }
+  .travel-map-stat strong {
+    font-size: 2rem;
+  }
+  .travel-map-stat span {
+    margin: 0;
+  }
+  .travel-map-hint {
+    display: none;
+  }
+  .travel-map-controls {
+    top: 0.6rem;
+    right: 0.6rem;
+  }
+}

@@ -1,0 +1,27 @@
+{% comment %}
+  World travel globe. Places come from _data/travel.yml.
+  The page using this include must load the scripts and styles listed in travel.md.
+{% endcomment %}
+<div class="travel-map" id="travel-map"
+     data-world="{{ '/assets/vendor/countries-50m.json' | relative_url }}"
+     data-world-low="{{ '/assets/vendor/countries-110m.json' | relative_url }}">
+  <div class="travel-map-canvas">
+    <div class="travel-map-stage">
+      <svg role="img" aria-label="Globe of the places I have been"></svg>
+    </div>
+    <div class="travel-map-stat">
+      <strong></strong>
+      <span></span>
+    </div>
+    <div class="travel-map-controls">
+      <button type="button" data-zoom="in" aria-label="Zoom in">+</button>
+      <button type="button" data-zoom="out" aria-label="Zoom out">&minus;</button>
+      <button type="button" data-zoom="reset" aria-label="Reset view">&#8634;</button>
+    </div>
+    <p class="travel-map-hint">Drag to rotate &middot; double-click or Ctrl / &#8984; + scroll to zoom</p>
+    <div class="travel-map-tooltip" hidden></div>
+  </div>
+  <ul class="travel-map-list"></ul>
+  <p class="travel-map-warning" hidden></p>
+</div>
+<script type="application/json" id="travel-map-data">{{ site.data.travel | jsonify }}</script>
