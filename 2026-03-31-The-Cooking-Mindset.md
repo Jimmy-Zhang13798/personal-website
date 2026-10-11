@@ -9,7 +9,7 @@ author: Haizhou Zhang
 ---
 
 
-English version translated by AI, see below.
+English version, see below.
 
 ---
 
